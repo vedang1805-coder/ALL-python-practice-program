@@ -13,4 +13,5 @@ elif(marks >= 75):
 elif(marks >= 60):
     print("C")
 else:
+
     print("Fail")

@@ -7,4 +7,4 @@ side3 = int(input("Enter the third side of Triangle : "))
 if(side1+side2+side3 == 180):
     print("valid triangle")
 else:
-    print("Invalid triangle")
+    print("Invalid triangle") 

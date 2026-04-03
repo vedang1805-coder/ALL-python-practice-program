@@ -5,4 +5,4 @@ fruits = {
 }
 
 fruits["banana"] = "20"
-print(fruits)
+print(fruits) 

@@ -4,4 +4,4 @@ num = int(input("Enter any number : "))
 if(num%3 == 0 and num%5 == 0):
     print("Number is Divisible by 3 and 5")
 else:
-    print("Number is notDivisible by 3 and 5")
+    print("Number is notDivisible by 3 and 5") 

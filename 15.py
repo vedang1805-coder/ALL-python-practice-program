@@ -10,4 +10,4 @@ password = int(input("Enter the password : "))
 if(uname == "admin" and password == 1234):
     print("Login Successful")
 else:
-    print("login faild")
+    print("login faild") 

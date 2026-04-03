@@ -5,4 +5,4 @@ num = int(input("Enter the Number : "))
 if(num >= -9 and num <= 9):
     print("Single Digit number")
 else:
-    print("Multiple digit number")
+    print("Multiple digit number") 

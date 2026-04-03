@@ -16,6 +16,6 @@ print("Sum of first", n, "natural numbers is:", total)
 
 
 
-
+ 
 
 

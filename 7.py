@@ -5,4 +5,4 @@ num = num%5
 if(num == 0):
     print("Number is divisable by 5")
 else:
-    print("not")
+    print("not") 

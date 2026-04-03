@@ -5,4 +5,4 @@ if(num > 10):
 elif(num == 10):
     print("Number is 10")
 else:
-    print("Number is lessthan 10")
+    print("Number is lessthan 10") 

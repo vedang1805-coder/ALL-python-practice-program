@@ -16,7 +16,7 @@ op = input("Enter any operator")
 
 if(op == "+"):
     print("Num1 + num2 =  ",num1+num2)
-elif(op=="-"):
+elif(op=="-"):   
     print("num1 - num2 = ",num1-num2)
 elif(op=="/"):
     print("num1/num2 = ",num1/num2)

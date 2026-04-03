@@ -15,4 +15,4 @@ elif(light == "yellow"):
 elif(light == "green"):
     print("Go")
 else:
-    print("Invalid color")
+    print("Invalid color") 

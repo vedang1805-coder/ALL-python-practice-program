@@ -6,4 +6,4 @@ char = char.lower()
 if(char == "a" or char == "i" or char == "o" or char == "e" or char == "u"):
     print("The character os vowel")
 else:
-    print("The character is constant")
+    print("The character is constant") 

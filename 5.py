@@ -4,4 +4,4 @@ age = int(input("Enter the age : "))
 if(age > 18):
     print("A person can vote")
 else:
-    print("Person is small to vote")
+    print("Person is small to vote") 

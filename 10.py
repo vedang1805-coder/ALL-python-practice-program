@@ -4,4 +4,4 @@ year = year%4
 if(year == 0):
     print("Leapyear")
 else:
-    print("Not leapyear")
+    print("Not leapyear") 

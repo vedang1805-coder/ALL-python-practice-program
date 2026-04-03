@@ -7,4 +7,4 @@ if(num == 0):
 elif(num > 0):
     print("Positive number")
 else:
-    print("negative")
+    print("negative") 
